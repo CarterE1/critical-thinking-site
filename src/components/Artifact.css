@@ -192,9 +192,10 @@ body {
 }
 
 .artifact-carousel-controls button {
-  border: 1px solid #666;
+  border: 1px solid #2e303a;
   border-radius: 4px;
-  background: #fff;
+  background: #16171d;
+  color: #f3f4f6;
   padding: 0.2rem 0.6rem;
   cursor: pointer;
 }
